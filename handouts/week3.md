@@ -30,7 +30,7 @@ style50 my-file.c
 
 Generally, here's how I advise you approach psets:
 
-* The algorithms -- the logic -- are the hardest parts of the pset. For pset1, it was figuring out how many "#"'s and spaces to print on any line. For pset2, it's figuring out how to rotate the text properly. Work out your logic on paper before you even touch your computer.
+* The algorithms -- the logic -- are the hardest parts of the pset. Work out your logic on paper before you even touch your computer.
 * Find a pset partner. Just talking to someone makes your thinking much clearer. It's also nice to have someone to spend those long pset hours with. Make friends in section, office hours, your entryway, etc. Or just tell me and I can put you in touch with someone!
 * Go to office hours early in the week. You'll encounter smaller crowds and get more time from TFs. Make use of HSA.
 * Start the psets well before you come to section so that you have specific, actionable questions I can help you with.
@@ -229,8 +229,6 @@ int main(int argc, string argv[])
 
 
 
-
 }
 ```
-
 *Hint: `atoi` is your friend. Look it up at <https://reference.cs50.net/>.*
