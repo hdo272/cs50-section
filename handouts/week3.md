@@ -1,4 +1,4 @@
-# CS50 Section. Week 2. 9/15/16.
+# CS50 Section. Week 2. 9/14/16.
 *Hillary Do*
 
 ## About me
