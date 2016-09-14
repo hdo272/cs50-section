@@ -1,17 +1,15 @@
-# CS50 Section. Week 3. 9/22/15.
-*Neel Mehta*
+# CS50 Section. Week 2. 9/15/16.
+*Hillary Do*
 
 ## About me
-Neel Mehta '18  
-neelmehta@college.harvard.edu  
-(215) 990-6434  
+Hillary Do '17
+hillaryjiado@college.harvard.edu   
 
 ## Resources
 * C language reference: <https://reference.cs50.net/>
 * CS50 Study: <https://study.cs50.net/>
 * CS50 Discuss: <https://cs50.harvard.edu/discuss>
 * CS50 Style Guide: <https://manual.cs50.net/style/>
-* Handouts and practice problems: <https://github.com/hathix/cs50-section>
 
 ## Grading
 
@@ -37,7 +35,7 @@ Generally, here's how I advise you approach psets:
 
 * The algorithms -- the logic -- are the hardest parts of the pset. For pset1, it was figuring out how many "#"'s and spaces to print on any line. For pset2, it's figuring out how to rotate the text properly. Work out your logic on paper before you even touch your computer.
 * Find a pset partner. Just talking to someone makes your thinking much clearer. It's also nice to have someone to spend those long pset hours with. Make friends in section, office hours, your entryway, etc. Or just tell me and I can put you in touch with someone!
-* Go to office hours early in the week: Monday or Tuesday. You'll encounter smaller crowds and get more time from TFs.
+* Go to office hours early in the week. You'll encounter smaller crowds and get more time from TFs. Make use of HSA.
 * Start the psets well before you come to section so that you have specific, actionable questions I can help you with.
 
 ## pset2 tips
@@ -141,7 +139,7 @@ Notice that you'll need to change the *header* of `main` to include `int argc, s
 
 These are designed to be difficult. Work on these with a partner. Assume all necessary header files have been `#include`'d.
 
- Solutions at <https://github.com/hathix/cs50-section/tree/master/code/3>.
+Solutions at <https://github.com/hathix/cs50-section/tree/master/code/3>.
 
 ## Loops
 
