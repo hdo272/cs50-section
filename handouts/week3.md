@@ -1,8 +1,5 @@
 # CS50 Section. Week 2. 9/14/16.
 *Hillary Do*
-
-## About me
-Hillary Do '17
 hillaryjiado@college.harvard.edu   
 
 ## Resources
